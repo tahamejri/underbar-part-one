@@ -16,10 +16,11 @@ Before starting any work on the sprint:
 
 Now Matt and Yousef begin working on the sprint. They get some work done and want to commit and push to github:
 
-3. Type `git add .` -- this will add any files changed since the last commit
-4. Type `git commit -m <your commit message>` -- be sure and give a descriptive commit message
-5. Type `git push origin master` -- this will push to Matt's repo
-6. Type `git push yousef master` -- this will push to Yousef's repo
+3. Type `git status` -- this will show you which files have been changed since the last commit
+4. Type `git add .` -- this will add any files changed since the last commit
+5. Type `git commit -m <your commit message>` -- be sure and give a descriptive commit message
+6. Type `git push origin master` -- this will push to Matt's repo
+7. Type `git push yousef master` -- this will push to Yousef's repo
 
 ### Bare minimum requirements:
 
